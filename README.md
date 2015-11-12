@@ -6,14 +6,14 @@
 
 ## Description
 
-Shake to hear your destiny! You and your friends can record your own responses.
+Ask the Magic 8 Ball a question and shake your phone to read your destiny. It is customizable: your friends can record audio versions of the 8 ball's responses, which will be played back to you along with the text response. Stored locally as raw audio on your Android phone. Created in about 6 hours.
 
 ## Setup
 
 * Make sure you have Android Studio installed on your computer.
 * Clone this repository.
 * Open the folder in Android Studio.
-* Set up an Android Virtual Device (AVD) or connect your own Android device.
+* Set up an Android Virtual Device (AVD) or connect your own Android device. _**Note:** Motion detection and audio recording will not work on an AVD._
 * Press the run button.
 
 ## Technologies Used
